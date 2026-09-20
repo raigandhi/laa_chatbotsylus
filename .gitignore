@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+
+# Riwayat percakapan (data pribadi hasil chat)
+chat_history/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml

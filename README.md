@@ -1,4 +1,4 @@
-# 💠 Sylus Chatbot — Roleplay NPC dari *Love and Deepspace*
+# Sylus Chatbot
 
 Chatbot berbasis LLM (via **Groq API**) yang berperan sebagai **Sylus**, salah satu karakter
 di game otome *Love and Deepspace*. Chatbot ini bisa diajak ngobrol santai, curhat, atau
